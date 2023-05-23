@@ -56,7 +56,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This script is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
