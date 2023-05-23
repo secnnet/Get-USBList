@@ -57,7 +57,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
-
----
-
-Please make sure to customize the README file based on your specific script details and any additional information you'd like to include.
